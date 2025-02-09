@@ -1,7 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Biglar-py<br><br>👀 Interests:<br>I’m passionate about artificial intelligence and my goal is to fill the world with AI.<br><br>🌱 Current Learning:<br>I’ve mastered 80% of the Python programming language and I’m working on the last 20%. Additionally, I’m diving into JavaScript and exploring various C languages.<br><br>💞️ Collaboration Goals:<br>I’m eager to collaborate on AI-related projects, as well as tools and smart robots.<br><br>📫 Reach Me:<br><br>Email:
-
-    erenbiglarhub@gmail.com
+👋 Hi, I’m @Biglar-py<br><br>👀 Interests:<br>I’m passionate about artificial intelligence and my goal is to fill the world with AI.<br><br>🌱 Current Learning:<br>I’ve mastered 80% of the Python programming language and I’m working on the last 20%. Additionally, I’m diving into JavaScript and exploring various C languages.<br><br>💞️ Collaboration Goals:<br>I’m eager to collaborate on AI-related projects, as well as tools and smart robots.<br><br>📫 Reach Me:<br>
   <br>Telegram:
 
     @Eren_Biglar2007
