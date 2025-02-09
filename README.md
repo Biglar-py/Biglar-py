@@ -15,7 +15,7 @@ I’m eager to collaborate on AI-related projects, as well as tools and smart ro
 
 Email:
 
-  erenbiglarhub@gmail.com
+     erenbiglarhub@gmail.com
 
 Telegram:
 
